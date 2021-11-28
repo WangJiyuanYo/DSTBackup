@@ -1,0 +1,27 @@
+[00:01:04]: [Join Announcement] 轻描淡写
+[00:02:01]: [Join Announcement] 蝉破夏晓
+[00:55:40]: [Death Announcement] 蝉破夏晓 死亡，死因： 过热。他变成了一个令人毛骨悚然的鬼！
+[00:55:51]: [Say] (KU_fFJpmE0E) 蝉破夏晓: #resurrect
+[00:55:52]: [Resurrect Announcement] 蝉破夏晓 复活自 复活.
+[01:30:47]: [Death Announcement] 蝉破夏晓 死亡，死因： 皮弗娄牛。他变成了一个令人毛骨悚然的鬼！
+[01:30:51]: [Say] (KU_fFJpmE0E) 蝉破夏晓: #resurrect
+[01:30:53]: [Resurrect Announcement] 蝉破夏晓 复活自 复活.
+[01:55:58]: [Death Announcement] 蝉破夏晓 死亡，死因： 怪兽肉。他变成了一个令人毛骨悚然的鬼！
+[01:56:04]: [Say] (KU_fFJpmE0E) 蝉破夏晓: #resurrect
+[01:56:05]: [Resurrect Announcement] 蝉破夏晓 复活自 复活.
+[01:56:41]: [Death Announcement] 蝉破夏晓 死亡，死因： 猎犬。他变成了一个令人毛骨悚然的鬼！
+[01:58:59]: [Say] (KU_fFJpmE0E) 蝉破夏晓: #resurrect
+[01:59:00]: [Resurrect Announcement] 蝉破夏晓 复活自 复活.
+[02:00:21]: [Death Announcement] 蝉破夏晓 死亡，死因： 过热。他变成了一个令人毛骨悚然的鬼！
+[02:00:29]: [Say] (KU_fFJpmE0E) 蝉破夏晓: #resurrect
+[02:00:30]: [Resurrect Announcement] 蝉破夏晓 复活自 复活.
+[02:54:20]: [Death Announcement] 蝉破夏晓 死亡，死因： 龙蝇。他变成了一个令人毛骨悚然的鬼！
+[02:54:48]: [Say] (KU_fFJpmE0E) 蝉破夏晓: #resurrect
+[02:54:49]: [Resurrect Announcement] 蝉破夏晓 复活自 复活.
+[02:55:26]: [Vote Announcement] rollback passed
+[02:55:29]: [Death Announcement] 轻描淡写 死亡，死因： 熔岩幼虫。她变成了一个令人毛骨悚然的鬼！
+[02:56:33]: [Vote Announcement] rollback passed
+[03:08:02]: [Death Announcement] 轻描淡写 死亡，死因： 火。她变成了一个令人毛骨悚然的鬼！
+[03:08:07]: [Vote Announcement] rollback passed
+[03:08:08]: [Death Announcement] 蝉破夏晓 死亡，死因： 熔岩幼虫。他变成了一个令人毛骨悚然的鬼！
+[03:56:58]: [Leave Announcement] 轻描淡写

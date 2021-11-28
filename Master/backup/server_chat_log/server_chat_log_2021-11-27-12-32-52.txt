@@ -1,0 +1,21 @@
+[00:00:56]: [Join Announcement] 轻描淡写
+[00:02:01]: [Join Announcement] 3432439334
+[00:02:13]: [Say] (KU_fFJpmE0E) 3432439334: 794439137
+[00:02:25]: [Say] (KU_fFJpmE0E) 3432439334: #resurrect
+[00:02:26]: [Resurrect Announcement] 3432439334 复活自 复活.
+[00:03:13]: [Death Announcement] 3432439334 死亡，死因： 鱼人。他变成了一个令人毛骨悚然的鬼！
+[00:03:21]: [Say] (KU_fFJpmE0E) 3432439334: #resurrect
+[00:03:22]: [Resurrect Announcement] 3432439334 复活自 复活.
+[00:06:14]: [Death Announcement] 3432439334 死亡，死因： 猎犬。他变成了一个令人毛骨悚然的鬼！
+[00:07:43]: [Say] (KU_fFJpmE0E) 3432439334: #resurrect
+[00:07:44]: [Resurrect Announcement] 3432439334 复活自 复活.
+[00:12:52]: [Death Announcement] 3432439334 死亡，死因： 鱼人。他变成了一个令人毛骨悚然的鬼！
+[00:13:18]: [Say] (KU_fFJpmE0E) 3432439334: #resurrect
+[00:13:19]: [Resurrect Announcement] 3432439334 复活自 复活.
+[00:13:33]: [Death Announcement] 3432439334 死亡，死因： 鱼人。他变成了一个令人毛骨悚然的鬼！
+[00:15:38]: [Say] (KU_fFJpmE0E) 3432439334: #resurrect
+[00:15:39]: [Resurrect Announcement] 3432439334 复活自 复活.
+[00:24:40]: [Skin Announcement] 3432439334 feet_loafers_brown_beaver
+[00:50:11]: [Skin Announcement] 轻描淡写 hand_wx78_magma
+[01:23:32]: [Leave Announcement] 轻描淡写
+[01:23:33]: [Leave Announcement] 3432439334

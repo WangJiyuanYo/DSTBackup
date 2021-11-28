@@ -1,0 +1,16 @@
+[00:00:55]: [Join Announcement] 轻描淡写
+[00:02:37]: [Join Announcement] 蝉破夏晓
+[00:37:20]: [Skin Announcement] 轻描淡写 hand_wanda_steampunk
+[00:42:25]: [Death Announcement] 蝉破夏晓 死亡，死因： 蜘蛛。他变成了一个令人毛骨悚然的鬼！
+[00:42:41]: [Say] (KU_fFJpmE0E) 蝉破夏晓: #resurrect
+[00:42:42]: [Resurrect Announcement] 蝉破夏晓 复活自 复活.
+[00:51:24]: [Death Announcement] 轻描淡写 死亡，死因： 恐怖的巨喙。她变成了一个令人毛骨悚然的鬼！
+[00:51:27]: [Death Announcement] 蝉破夏晓 死亡，死因： 恐怖的巨喙。他变成了一个令人毛骨悚然的鬼！
+[01:57:13]: [Skin Announcement] 轻描淡写 legs_jeans_black_scribble
+[02:43:15]: [Skin Announcement] 轻描淡写 body_buttons_blue_sapphire
+[03:38:53]: [Skin Announcement] 轻描淡写 body_sweatervest_green_forest
+[03:50:32]: [Death Announcement] 轻描淡写 死亡，死因： 饿死。她变成了一个令人毛骨悚然的鬼！
+[03:50:37]: [Say] (KU_FPWJttyn) 轻描淡写: #resurrect
+[03:50:38]: [Resurrect Announcement] 轻描淡写 复活自 复活.
+[04:05:46]: [Leave Announcement] 蝉破夏晓
+[04:07:18]: [Leave Announcement] 轻描淡写

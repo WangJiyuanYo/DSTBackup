@@ -1,0 +1,21 @@
+[00:00:54]: [Join Announcement] 轻描淡写
+[00:02:32]: [Join Announcement] 蝉破夏晓
+[00:10:17]: [Death Announcement] 蝉破夏晓 死亡，死因： 高脚鸟。他变成了一个令人毛骨悚然的鬼！
+[00:10:56]: [Say] (KU_fFJpmE0E) 蝉破夏晓: #resurrect
+[00:10:57]: [Resurrect Announcement] 蝉破夏晓 复活自 复活.
+[00:32:00]: [Say] (KU_fFJpmE0E) 蝉破夏晓: c_give("walrus_camp")
+[00:52:03]: [Death Announcement] 蝉破夏晓 死亡，死因： 怪兽肉。他变成了一个令人毛骨悚然的鬼！
+[00:52:18]: [Say] (KU_fFJpmE0E) 蝉破夏晓: #resurrect
+[00:52:19]: [Resurrect Announcement] 蝉破夏晓 复活自 复活.
+[00:56:04]: [Death Announcement] 蝉破夏晓 死亡，死因： 猎犬。他变成了一个令人毛骨悚然的鬼！
+[00:56:10]: [Say] (KU_fFJpmE0E) 蝉破夏晓: #resurrect
+[00:56:11]: [Resurrect Announcement] 蝉破夏晓 复活自 复活.
+[01:07:19]: [Skin Announcement] 轻描淡写 body_walter_ice
+[01:16:36]: [Death Announcement] 蝉破夏晓 死亡，死因： 黑暗。他变成了一个令人毛骨悚然的鬼！
+[01:18:55]: [Say] (KU_fFJpmE0E) 蝉破夏晓: #resurrect
+[01:18:56]: [Resurrect Announcement] 蝉破夏晓 复活自 复活.
+[02:09:38]: [Skin Announcement] 轻描淡写 feet_wathgrithr_nature
+[02:50:19]: [Death Announcement] 蝉破夏晓 死亡，死因： 猎犬。他变成了一个令人毛骨悚然的鬼！
+[02:50:58]: [Say] (KU_fFJpmE0E) 蝉破夏晓: #resurrect
+[02:50:59]: [Resurrect Announcement] 蝉破夏晓 复活自 复活.
+[03:38:34]: [Leave Announcement] 轻描淡写
