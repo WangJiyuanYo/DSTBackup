@@ -1,0 +1,41 @@
+[00:00:37]: [Announcement] 〖 潮湿的 格罗姆 〗出现了，快去领回家。
+[00:01:02]: [Join Announcement] 轻描淡写
+[00:01:07]: [Announcement] 〖 潮湿的 巨大蜂窝 〗生成了！
+[00:01:07]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:07]: [Announcement] 〖 潮湿的 树精守卫 〗出现！
+[00:01:07]: [Announcement] 〖 潮湿的 树精守卫 〗出现！
+[00:01:07]: [Announcement] 〖 潮湿的 座狼 〗出现！
+[00:01:07]: [Announcement] 〖 潮湿的 熊獾 〗出现！
+[00:01:07]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:07]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:07]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:07]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:07]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:07]: [Announcement] 〖 潮湿的 座狼 〗出现！
+[00:01:07]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:07]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:07]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:07]: [Announcement] 〖 潮湿的 座狼 〗出现！
+[00:01:07]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:07]: [Announcement] 〖 潮湿的 帝王蟹 〗出现！
+[00:01:07]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:07]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:07]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:07]: [Announcement] 〖 潮湿的 座狼 〗出现！
+[00:01:07]: [Announcement] 〖 潮湿的 座狼 〗出现！
+[00:01:07]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:07]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:07]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:07]: [Announcement] 〖 潮湿的 座狼 〗出现！
+[00:11:08]: [Announcement] 服务器将于 30 秒后清理！
+[00:11:20]: [Announcement] 服务器将于 30 秒后清理！
+[00:12:48]: [Announcement] 〖 考拉象 〗被【 杀人蜂 】击杀！
+[00:15:32]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:17:12]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:17:32]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:17:42]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:19:05]: [Announcement] 〖 蚁狮 〗出现！
+[00:19:09]: [Announcement] 服务器将于 30 秒后清理！
+[00:19:22]: [Announcement] 服务器将于 30 秒后清理！
+[00:20:20]: [Skin Announcement] 轻描淡写 wilson_beard_barber
+[00:21:17]: [Leave Announcement] 轻描淡写

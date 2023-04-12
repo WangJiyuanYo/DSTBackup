@@ -1,0 +1,29 @@
+[00:00:55]: [Announcement] 〖 格罗姆 〗出现了，快去领回家。
+[00:01:39]: [Join Announcement] 轻描淡写
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 座狼 〗出现！
+[00:01:47]: [Announcement] 〖 熊獾 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 巨大蜂窝 〗生成了！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 树精守卫 〗出现！
+[00:01:47]: [Announcement] 〖 树精守卫 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 座狼 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 座狼 〗出现！
+[00:01:47]: [Announcement] 〖 帝王蟹 〗出现！
+[00:01:47]: [Announcement] 〖 座狼 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 座狼 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 座狼 〗出现！
+[00:02:34]: [Leave Announcement] 轻描淡写

@@ -1,0 +1,33 @@
+[00:01:15]: [Join Announcement] 轻描淡写
+[00:01:21]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:21]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:21]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:21]: [Announcement] 〖 潮湿的 座狼 〗出现！
+[00:01:21]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:21]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:21]: [Announcement] 〖 潮湿的 树精守卫 〗出现！
+[00:01:21]: [Announcement] 〖 潮湿的 座狼 〗出现！
+[00:01:21]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:21]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:21]: [Announcement] 〖 潮湿的 帝王蟹 〗出现！
+[00:01:21]: [Announcement] 〖 潮湿的 熊獾 〗出现！
+[00:01:21]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:21]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:21]: [Announcement] 〖 潮湿的 座狼 〗出现！
+[00:01:21]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:21]: [Announcement] 〖 潮湿的 巨大蜂窝 〗生成了！
+[00:01:21]: [Announcement] 〖 潮湿的 树精守卫 〗出现！
+[00:01:21]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:21]: [Announcement] 〖 潮湿的 座狼 〗出现！
+[00:01:21]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:21]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:21]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:21]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:21]: [Announcement] 〖 潮湿的 考拉象 〗出现！
+[00:01:21]: [Announcement] 〖 潮湿的 座狼 〗出现！
+[00:01:21]: [Announcement] 〖 潮湿的 座狼 〗出现！
+[00:01:40]: [Announcement] 〖 潮湿的 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:01:55]: [Announcement] 〖 潮湿的 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:02:02]: [Announcement] 〖 潮湿的 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:02:03]: [Announcement] 〖 潮湿的 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:06:48]: [Leave Announcement] 轻描淡写

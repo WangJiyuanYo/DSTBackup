@@ -1,0 +1,71 @@
+[00:00:33]: [Announcement] 〖 潮湿的 噩梦猪人 〗的封印已被解除！
+[00:00:34]: [Announcement] 〖 潮湿的 噩梦猪人 〗出现！
+[00:01:08]: [Join Announcement] 轻描淡写
+[00:01:14]: [Announcement] 〖 考拉象 〗出现！
+[00:01:14]: [Announcement] 〖 巨大蜂窝 〗生成了！
+[00:01:14]: [Announcement] 〖 考拉象 〗出现！
+[00:01:14]: [Announcement] 〖 考拉象 〗出现！
+[00:01:14]: [Announcement] 〖 考拉象 〗出现！
+[00:01:14]: [Announcement] 〖 蚁狮 〗出现！
+[00:01:14]: [Announcement] 〖 树精守卫 〗出现！
+[00:01:14]: [Announcement] 〖 树精守卫 〗出现！
+[00:01:14]: [Announcement] 〖 考拉象 〗出现！
+[00:01:14]: [Announcement] 〖 考拉象 〗出现！
+[00:01:14]: [Announcement] 〖 座狼 〗出现！
+[00:01:14]: [Announcement] 〖 帝王蟹 〗出现！
+[00:01:14]: [Announcement] 〖 熊獾 〗出现！
+[00:01:14]: [Announcement] 〖 考拉象 〗出现！
+[00:01:14]: [Announcement] 〖 座狼 〗出现！
+[00:01:14]: [Announcement] 〖 考拉象 〗出现！
+[00:01:14]: [Announcement] 〖 考拉象 〗出现！
+[00:01:14]: [Announcement] 〖 考拉象 〗出现！
+[00:01:14]: [Announcement] 〖 考拉象 〗出现！
+[00:01:14]: [Announcement] 〖 座狼 〗出现！
+[00:01:14]: [Announcement] 〖 座狼 〗出现！
+[00:01:14]: [Announcement] 〖 考拉象 〗出现！
+[00:01:14]: [Announcement] 〖 座狼 〗出现！
+[00:01:14]: [Announcement] 〖 考拉象 〗出现！
+[00:01:14]: [Announcement] 〖 座狼 〗出现！
+[00:01:14]: [Announcement] 〖 考拉象 〗出现！
+[00:01:14]: [Announcement] 〖 考拉象 〗出现！
+[00:01:31]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:01:46]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:01:47]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:01:52]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:05:53]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:06:11]: [Announcement] 〖 蚁狮 〗被【 眼睛炮塔 】击杀！
+[00:06:17]: [Announcement] 〖 蚁狮 〗消失！
+[00:07:37]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:07:47]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:08:00]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:09:01]: [Announcement] 服务器将于 30 秒后清理！
+[00:09:15]: [Announcement] 服务器将于 30 秒后清理！
+[00:14:31]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:15:24]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:16:08]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:16:50]: [Announcement] 〖 无眼鹿 〗正在惨遭【 流星 】下毒手！
+[00:16:54]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:17:02]: [Announcement] 服务器将于 30 秒后清理！
+[00:17:17]: [Announcement] 服务器将于 30 秒后清理！
+[00:25:03]: [Announcement] 服务器将于 30 秒后清理！
+[00:25:19]: [Announcement] 服务器将于 30 秒后清理！
+[00:25:44]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:26:43]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:26:48]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:27:26]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:27:55]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:28:08]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:29:38]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:31:17]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:33:04]: [Announcement] 服务器将于 30 秒后清理！
+[00:33:21]: [Announcement] 服务器将于 30 秒后清理！
+[00:37:57]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:39:09]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:40:41]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:40:59]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:41:05]: [Announcement] 服务器将于 30 秒后清理！
+[00:41:23]: [Announcement] 服务器将于 30 秒后清理！
+[00:42:36]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:42:58]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:43:53]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:45:09]: [Leave Announcement] 轻描淡写

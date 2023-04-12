@@ -1,0 +1,30 @@
+[00:00:45]: [Announcement] 〖 噩梦猪人 〗的封印已被解除！
+[00:00:46]: [Announcement] 〖 噩梦猪人 〗出现！
+[00:01:39]: [Join Announcement] 轻描淡写
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 座狼 〗出现！
+[00:01:47]: [Announcement] 〖 熊獾 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 巨大蜂窝 〗生成了！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 树精守卫 〗出现！
+[00:01:47]: [Announcement] 〖 树精守卫 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 座狼 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 座狼 〗出现！
+[00:01:47]: [Announcement] 〖 帝王蟹 〗出现！
+[00:01:47]: [Announcement] 〖 座狼 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 座狼 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 考拉象 〗出现！
+[00:01:47]: [Announcement] 〖 座狼 〗出现！
+[00:02:34]: [Leave Announcement] 轻描淡写

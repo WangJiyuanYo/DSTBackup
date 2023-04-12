@@ -1,0 +1,74 @@
+[00:00:33]: [Announcement] 〖 噩梦猪人 〗的封印已被解除！
+[00:00:34]: [Announcement] 〖 噩梦猪人 〗出现！
+[00:01:04]: [Join Announcement] 轻描淡写
+[00:01:09]: [Announcement] 〖 座狼 〗出现！
+[00:01:09]: [Announcement] 〖 座狼 〗出现！
+[00:01:09]: [Announcement] 〖 考拉象 〗出现！
+[00:01:09]: [Announcement] 〖 考拉象 〗出现！
+[00:01:09]: [Announcement] 〖 考拉象 〗出现！
+[00:01:09]: [Announcement] 〖 巨大蜂窝 〗生成了！
+[00:01:09]: [Announcement] 〖 座狼 〗出现！
+[00:01:09]: [Announcement] 〖 座狼 〗出现！
+[00:01:09]: [Announcement] 〖 座狼 〗出现！
+[00:01:09]: [Announcement] 〖 考拉象 〗出现！
+[00:01:09]: [Announcement] 〖 帝王蟹 〗出现！
+[00:01:09]: [Announcement] 〖 树精守卫 〗出现！
+[00:01:09]: [Announcement] 〖 考拉象 〗出现！
+[00:01:09]: [Announcement] 〖 考拉象 〗出现！
+[00:01:10]: [Announcement] 〖 考拉象 〗出现！
+[00:01:10]: [Announcement] 〖 树精守卫 〗出现！
+[00:01:10]: [Announcement] 〖 熊獾 〗出现！
+[00:01:10]: [Announcement] 〖 考拉象 〗出现！
+[00:01:10]: [Announcement] 〖 考拉象 〗出现！
+[00:01:10]: [Announcement] 〖 考拉象 〗出现！
+[00:01:10]: [Announcement] 〖 考拉象 〗出现！
+[00:01:10]: [Announcement] 〖 座狼 〗出现！
+[00:01:10]: [Announcement] 〖 考拉象 〗出现！
+[00:01:10]: [Announcement] 〖 考拉象 〗出现！
+[00:01:10]: [Announcement] 〖 考拉象 〗出现！
+[00:01:10]: [Announcement] 〖 考拉象 〗出现！
+[00:01:51]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:01:56]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:02:03]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:07:56]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:08:57]: [Announcement] 服务器将于 30 秒后清理！
+[00:09:10]: [Announcement] 服务器将于 30 秒后清理！
+[00:10:13]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:11:13]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:14:14]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:14:56]: [Vote Announcement] rollback passed
+[00:15:01]: [Death Announcement] 轻描淡写 死于： 海草。她变成了可怕的鬼魂！
+[00:15:34]: [Announcement] 〖 格罗姆 〗出现了，快去领回家。
+[00:15:49]: [Announcement] 〖 考拉象 〗出现！
+[00:15:49]: [Announcement] 〖 座狼 〗出现！
+[00:15:49]: [Announcement] 〖 座狼 〗出现！
+[00:15:49]: [Announcement] 〖 考拉象 〗出现！
+[00:15:49]: [Announcement] 〖 熊獾 〗出现！
+[00:15:49]: [Announcement] 〖 考拉象 〗出现！
+[00:15:49]: [Announcement] 〖 巨大蜂窝 〗生成了！
+[00:15:49]: [Announcement] 〖 座狼 〗出现！
+[00:15:49]: [Announcement] 〖 考拉象 〗出现！
+[00:15:49]: [Announcement] 〖 树精守卫 〗出现！
+[00:15:49]: [Announcement] 〖 考拉象 〗出现！
+[00:15:49]: [Announcement] 〖 座狼 〗出现！
+[00:15:49]: [Announcement] 〖 考拉象 〗出现！
+[00:15:49]: [Announcement] 〖 座狼 〗出现！
+[00:15:49]: [Announcement] 〖 考拉象 〗出现！
+[00:15:49]: [Announcement] 〖 考拉象 〗出现！
+[00:15:49]: [Announcement] 〖 座狼 〗出现！
+[00:15:49]: [Announcement] 〖 树精守卫 〗出现！
+[00:15:49]: [Announcement] 〖 考拉象 〗出现！
+[00:15:49]: [Announcement] 〖 帝王蟹 〗出现！
+[00:15:49]: [Announcement] 〖 考拉象 〗出现！
+[00:15:49]: [Announcement] 〖 考拉象 〗出现！
+[00:15:49]: [Announcement] 〖 考拉象 〗出现！
+[00:15:49]: [Announcement] 〖 考拉象 〗出现！
+[00:15:49]: [Announcement] 〖 考拉象 〗出现！
+[00:15:49]: [Announcement] 〖 考拉象 〗出现！
+[00:15:50]: [Announcement] 〖 噩梦猪人 〗的封印已被解除！
+[00:15:51]: [Announcement] 〖 噩梦猪人 〗出现！
+[00:16:33]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:16:33]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:23:38]: [Announcement] 服务器将于 30 秒后清理！
+[00:23:51]: [Announcement] 服务器将于 30 秒后清理！
+[00:26:38]: [Leave Announcement] 轻描淡写

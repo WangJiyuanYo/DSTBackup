@@ -1,0 +1,45 @@
+[00:00:57]: [Announcement] 〖 格罗姆 〗出现了，快去领回家。
+[00:01:28]: [Join Announcement] 轻描淡写
+[00:01:34]: [Announcement] 〖 座狼 〗出现！
+[00:01:34]: [Announcement] 〖 考拉象 〗出现！
+[00:01:34]: [Announcement] 〖 考拉象 〗出现！
+[00:01:34]: [Announcement] 〖 考拉象 〗出现！
+[00:01:34]: [Announcement] 〖 考拉象 〗出现！
+[00:01:34]: [Announcement] 〖 考拉象 〗出现！
+[00:01:34]: [Announcement] 〖 考拉象 〗出现！
+[00:01:34]: [Announcement] 〖 考拉象 〗出现！
+[00:01:34]: [Announcement] 〖 考拉象 〗出现！
+[00:01:34]: [Announcement] 〖 树精守卫 〗出现！
+[00:01:34]: [Announcement] 〖 考拉象 〗出现！
+[00:01:34]: [Announcement] 〖 树精守卫 〗出现！
+[00:01:34]: [Announcement] 〖 考拉象 〗出现！
+[00:01:34]: [Announcement] 〖 座狼 〗出现！
+[00:01:34]: [Announcement] 〖 熊獾 〗出现！
+[00:01:34]: [Announcement] 〖 巨大蜂窝 〗生成了！
+[00:01:34]: [Announcement] 〖 帝王蟹 〗出现！
+[00:01:34]: [Announcement] 〖 座狼 〗出现！
+[00:01:34]: [Announcement] 〖 考拉象 〗出现！
+[00:01:34]: [Announcement] 〖 座狼 〗出现！
+[00:01:34]: [Announcement] 〖 座狼 〗出现！
+[00:01:34]: [Announcement] 〖 考拉象 〗出现！
+[00:01:34]: [Announcement] 〖 赃物袋 〗出现！
+[00:01:34]: [Announcement] 〖 考拉象 〗出现！
+[00:01:34]: [Announcement] 〖 考拉象 〗出现！
+[00:01:34]: [Announcement] 〖 考拉象 〗出现！
+[00:01:34]: [Announcement] 〖 座狼 〗出现！
+[00:01:34]: [Announcement] 〖 考拉象 〗出现！
+[00:01:34]: [Announcement] 〖 独眼巨鹿 〗出现！
+[00:01:50]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:02:50]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:08:54]: [Announcement] 〖 海象 〗出现！
+[00:09:05]: [Announcement] 〖 小海象 〗被【 潮湿的 海星 】击杀！
+[00:09:05]: [Announcement] 服务器将于 30 秒后清理！
+[00:09:26]: [Announcement] 〖 海象 〗被【 眼睛炮塔 】击杀！
+[00:09:35]: [Announcement] 服务器将于 30 秒后清理！
+[00:14:32]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:15:17]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:15:39]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:16:22]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:17:07]: [Announcement] 服务器将于 30 秒后清理！
+[00:17:38]: [Announcement] 服务器将于 30 秒后清理！
+[00:18:59]: [Leave Announcement] 轻描淡写

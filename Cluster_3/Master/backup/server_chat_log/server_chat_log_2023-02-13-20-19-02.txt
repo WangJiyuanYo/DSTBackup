@@ -1,0 +1,3 @@
+[00:00:58]: [Announcement] 〖 格罗姆 〗出现了，快去领回家。
+[00:01:32]: [Join Announcement] 轻描淡写
+[00:01:44]: [Leave Announcement] 轻描淡写

@@ -1,0 +1,4 @@
+[00:00:43]: [Announcement] 〖 潮湿的 噩梦猪人 〗的封印已被解除！
+[00:00:43]: [Announcement] 〖 潮湿的 噩梦猪人 〗出现！
+[00:01:21]: [Join Announcement] 轻描淡写
+[00:01:33]: [Leave Announcement] 轻描淡写

@@ -1,0 +1,142 @@
+[00:01:35]: [Join Announcement] 轻描淡写
+[00:01:42]: [Announcement] 〖 考拉象 〗出现！
+[00:01:42]: [Announcement] 〖 考拉象 〗出现！
+[00:01:42]: [Announcement] 〖 考拉象 〗出现！
+[00:01:42]: [Announcement] 〖 巨大蜂窝 〗生成了！
+[00:01:42]: [Announcement] 〖 考拉象 〗出现！
+[00:01:42]: [Announcement] 〖 考拉象 〗出现！
+[00:01:42]: [Announcement] 〖 帝王蟹 〗出现！
+[00:01:42]: [Announcement] 〖 考拉象 〗出现！
+[00:01:42]: [Announcement] 〖 考拉象 〗出现！
+[00:01:42]: [Announcement] 〖 熊獾 〗出现！
+[00:01:42]: [Announcement] 〖 考拉象 〗出现！
+[00:01:42]: [Announcement] 〖 座狼 〗出现！
+[00:01:42]: [Announcement] 〖 座狼 〗出现！
+[00:01:42]: [Announcement] 〖 树精守卫 〗出现！
+[00:01:42]: [Announcement] 〖 考拉象 〗出现！
+[00:01:42]: [Announcement] 〖 考拉象 〗出现！
+[00:01:42]: [Announcement] 〖 考拉象 〗出现！
+[00:01:42]: [Announcement] 〖 独眼巨鹿 〗出现！
+[00:01:42]: [Announcement] 〖 座狼 〗出现！
+[00:01:42]: [Announcement] 〖 考拉象 〗出现！
+[00:01:42]: [Announcement] 〖 赃物袋 〗出现！
+[00:01:42]: [Announcement] 〖 座狼 〗出现！
+[00:01:42]: [Announcement] 〖 考拉象 〗出现！
+[00:01:42]: [Announcement] 〖 考拉象 〗出现！
+[00:01:42]: [Announcement] 〖 考拉象 〗出现！
+[00:01:42]: [Announcement] 〖 树精守卫 〗出现！
+[00:01:42]: [Announcement] 〖 座狼 〗出现！
+[00:01:42]: [Announcement] 〖 座狼 〗出现！
+[00:01:42]: [Announcement] 〖 考拉象 〗出现！
+[00:01:46]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:01:46]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:02:29]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:02:31]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:04:58]: [Vote Announcement] rollback passed
+[00:06:50]: [Announcement] 〖 格罗姆 〗出现了，快去领回家。
+[00:07:08]: [Announcement] 〖 考拉象 〗出现！
+[00:07:08]: [Announcement] 〖 考拉象 〗出现！
+[00:07:08]: [Announcement] 〖 树精守卫 〗出现！
+[00:07:08]: [Announcement] 〖 座狼 〗出现！
+[00:07:08]: [Announcement] 〖 考拉象 〗出现！
+[00:07:08]: [Announcement] 〖 座狼 〗出现！
+[00:07:08]: [Announcement] 〖 座狼 〗出现！
+[00:07:08]: [Announcement] 〖 考拉象 〗出现！
+[00:07:08]: [Announcement] 〖 考拉象 〗出现！
+[00:07:08]: [Announcement] 〖 帝王蟹 〗出现！
+[00:07:08]: [Announcement] 〖 树精守卫 〗出现！
+[00:07:08]: [Announcement] 〖 考拉象 〗出现！
+[00:07:08]: [Announcement] 〖 考拉象 〗出现！
+[00:07:08]: [Announcement] 〖 座狼 〗出现！
+[00:07:08]: [Announcement] 〖 考拉象 〗出现！
+[00:07:08]: [Announcement] 〖 座狼 〗出现！
+[00:07:08]: [Announcement] 〖 考拉象 〗出现！
+[00:07:08]: [Announcement] 〖 巨大蜂窝 〗生成了！
+[00:07:08]: [Announcement] 〖 赃物袋 〗出现！
+[00:07:08]: [Announcement] 〖 独眼巨鹿 〗出现！
+[00:07:08]: [Announcement] 〖 熊獾 〗出现！
+[00:07:08]: [Announcement] 〖 考拉象 〗出现！
+[00:07:08]: [Announcement] 〖 考拉象 〗出现！
+[00:07:08]: [Announcement] 〖 考拉象 〗出现！
+[00:07:08]: [Announcement] 〖 考拉象 〗出现！
+[00:07:08]: [Announcement] 〖 考拉象 〗出现！
+[00:07:08]: [Announcement] 〖 考拉象 〗出现！
+[00:07:08]: [Announcement] 〖 座狼 〗出现！
+[00:07:08]: [Announcement] 〖 考拉象 〗出现！
+[00:07:11]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:07:12]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:07:55]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:07:57]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:16:35]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:17:16]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:17:21]: [Announcement] 服务器将于 30 秒后清理！
+[00:17:22]: [Announcement] 服务器将于 30 秒后清理！
+[00:17:32]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:18:20]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:22:05]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:22:21]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:23:27]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:23:46]: [Announcement] 〖 海象 〗出现！
+[00:24:11]: [Announcement] 〖 小海象 〗被【 潮湿的 海星 】击杀！
+[00:24:41]: [Announcement] 〖 海象 〗被【 眼睛炮塔 】击杀！
+[00:25:21]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:25:23]: [Announcement] 服务器将于 30 秒后清理！
+[00:25:24]: [Announcement] 服务器将于 30 秒后清理！
+[00:33:20]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:33:25]: [Announcement] 服务器将于 30 秒后清理！
+[00:33:27]: [Announcement] 服务器将于 30 秒后清理！
+[00:33:30]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:34:43]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:34:58]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:36:00]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:36:38]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:36:59]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:40:21]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:41:26]: [Announcement] 服务器将于 30 秒后清理！
+[00:41:30]: [Announcement] 服务器将于 30 秒后清理！
+[00:46:13]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:47:12]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:47:55]: [Announcement] 〖 海象 〗出现！
+[00:48:16]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:48:17]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:49:27]: [Announcement] 服务器将于 30 秒后清理！
+[00:49:31]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:49:34]: [Announcement] 服务器将于 30 秒后清理！
+[00:51:35]: [Death Announcement] 轻描淡写 死于： 饥饿。她变成了可怕的鬼魂！
+[00:51:35]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:52:05]: [Vote Announcement] rollback passed
+[00:53:59]: [Announcement] 〖 格罗姆 〗出现了，快去领回家。
+[00:54:18]: [Announcement] 〖 考拉象 〗出现！
+[00:54:18]: [Announcement] 〖 座狼 〗出现！
+[00:54:18]: [Announcement] 〖 树精守卫 〗出现！
+[00:54:18]: [Announcement] 〖 帝王蟹 〗出现！
+[00:54:18]: [Announcement] 〖 考拉象 〗出现！
+[00:54:18]: [Announcement] 〖 熊獾 〗出现！
+[00:54:18]: [Announcement] 〖 考拉象 〗出现！
+[00:54:18]: [Announcement] 〖 座狼 〗出现！
+[00:54:18]: [Announcement] 〖 考拉象 〗出现！
+[00:54:18]: [Announcement] 〖 巨大蜂窝 〗生成了！
+[00:54:18]: [Announcement] 〖 座狼 〗出现！
+[00:54:18]: [Announcement] 〖 考拉象 〗出现！
+[00:54:18]: [Announcement] 〖 考拉象 〗出现！
+[00:54:18]: [Announcement] 〖 赃物袋 〗出现！
+[00:54:18]: [Announcement] 〖 考拉象 〗出现！
+[00:54:18]: [Announcement] 〖 考拉象 〗出现！
+[00:54:18]: [Announcement] 〖 座狼 〗出现！
+[00:54:18]: [Announcement] 〖 考拉象 〗出现！
+[00:54:18]: [Announcement] 〖 海象 〗出现！
+[00:54:18]: [Announcement] 〖 考拉象 〗出现！
+[00:54:18]: [Announcement] 〖 树精守卫 〗出现！
+[00:54:18]: [Announcement] 〖 座狼 〗出现！
+[00:54:18]: [Announcement] 〖 考拉象 〗出现！
+[00:54:18]: [Announcement] 〖 考拉象 〗出现！
+[00:54:18]: [Announcement] 〖 考拉象 〗出现！
+[00:54:18]: [Announcement] 〖 独眼巨鹿 〗出现！
+[00:54:18]: [Announcement] 〖 考拉象 〗出现！
+[00:54:18]: [Announcement] 〖 座狼 〗出现！
+[00:54:18]: [Announcement] 〖 考拉象 〗出现！
+[00:54:18]: [Announcement] 〖 考拉象 〗出现！
+[00:54:29]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:54:29]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:54:46]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:55:12]: [Leave Announcement] 轻描淡写

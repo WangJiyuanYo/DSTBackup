@@ -1,0 +1,48 @@
+[00:01:28]: [Join Announcement] 轻描淡写
+[00:01:35]: [Announcement] 〖 考拉象 〗出现！
+[00:01:35]: [Announcement] 〖 座狼 〗出现！
+[00:01:35]: [Announcement] 〖 座狼 〗出现！
+[00:01:35]: [Announcement] 〖 座狼 〗出现！
+[00:01:35]: [Announcement] 〖 考拉象 〗出现！
+[00:01:35]: [Announcement] 〖 考拉象 〗出现！
+[00:01:35]: [Announcement] 〖 树精守卫 〗出现！
+[00:01:35]: [Announcement] 〖 考拉象 〗出现！
+[00:01:35]: [Announcement] 〖 座狼 〗出现！
+[00:01:35]: [Announcement] 〖 树精守卫 〗出现！
+[00:01:35]: [Announcement] 〖 考拉象 〗出现！
+[00:01:35]: [Announcement] 〖 考拉象 〗出现！
+[00:01:35]: [Announcement] 〖 考拉象 〗出现！
+[00:01:35]: [Announcement] 〖 麋鹿鹅 〗出现！
+[00:01:35]: [Announcement] 〖 考拉象 〗出现！
+[00:01:35]: [Announcement] 〖 考拉象 〗出现！
+[00:01:35]: [Announcement] 〖 座狼 〗出现！
+[00:01:35]: [Announcement] 〖 熊獾 〗出现！
+[00:01:35]: [Announcement] 〖 赃物袋 〗出现！
+[00:01:35]: [Announcement] 〖 考拉象 〗出现！
+[00:01:35]: [Announcement] 〖 巨大蜂窝 〗生成了！
+[00:01:35]: [Announcement] 〖 考拉象 〗出现！
+[00:01:35]: [Announcement] 〖 座狼 〗出现！
+[00:01:35]: [Announcement] 〖 考拉象 〗出现！
+[00:01:35]: [Announcement] 〖 考拉象 〗出现！
+[00:01:35]: [Announcement] 〖 考拉象 〗出现！
+[00:01:35]: [Announcement] 〖 考拉象 〗出现！
+[00:01:35]: [Announcement] 〖 考拉象 〗出现！
+[00:01:35]: [Announcement] 〖 麋鹿鹅 〗出现！
+[00:01:35]: [Announcement] 〖 帝王蟹 〗出现！
+[00:01:35]: [Announcement] 〖 麋鹿鹅 〗出现！
+[00:01:36]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:01:36]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:01:40]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:02:00]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:02:09]: [Announcement] 〖 麋鹿鹅 〗出现！
+[00:02:11]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:04:13]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:04:39]: [Announcement] 〖 麋鹿鹅 〗出现！
+[00:04:41]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:05:05]: [Announcement] 〖 伏特羊 〗被挨千刀的【 潮湿的 海星 】屠宰了！
+[00:09:49]: [Announcement] 服务器将于 30 秒后清理！
+[00:10:17]: [Announcement] 服务器将于 30 秒后清理！
+[00:14:27]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:14:49]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:15:43]: [Announcement] 〖 伏特羊 〗正在惨遭【 潮湿的 海星 】下毒手！
+[00:16:28]: [Leave Announcement] 轻描淡写
